@@ -27,8 +27,8 @@
     "body-parser": "^1.14.1",
     "ejs": "^2.3.4",
     "express-ejs-layouts": "^2.0.0",
-    "pg": "^4.4.3",
+    "pg": "^6.4.1",
     "pg-hstore": "^2.3.2",
-    "sequelize": "^3.12.2"
+    "sequelize": "^3.30.4"
   }
 }
